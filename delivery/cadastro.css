@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Fredoka", sans-serif;
+    color: rgb(203, 0, 16);
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: row;
+}
+
+#btncadastrar:hover {
+    cursor: pointer;
+}
+
+header {
+    background-color: rgb(219, 29, 45);
+
+}

@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Fredoka", sans-serif;
+    color: rgb(203, 0, 16);
+}
+
+header {
+    background-color: rgb(219, 29, 45);
+
+}
+
+.cafes{
+    margin-left: 30%;
+}
